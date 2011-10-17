@@ -11,4 +11,4 @@ One more thing...
 
 I would like to thank my family and my children (Yan, Yasmin and Ygor) for being
 the best thing that could have happened to me - they are the air i breathe and
-the reason why i wake every day wanting to better, i love you all so much !
+the reason why i wake every day wanting to be better, i love you all so much !
