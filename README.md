@@ -1,4 +1,4 @@
-### Introduction
+## Introduction
 
 django-forrest is set of files and configurations to ease the django development
 and deploy for users.
@@ -14,18 +14,32 @@ rely on him - and this is the point.
 
 Some decisions are hard, and here is django-forrest to help =)
 
-### Installation
+## Installation
 
 1. Clone repo
-7. Enjoy =)
 
-### Deployment
+## Requirements
 
-1. Setup your server settings in fabfile (Ubuntu 11.04 only tested)
+### Python
 
-### Todo
+The packages we will need are in the requirements folder.
+
+### Ruby
+
+* Vagrant (http://vagrantup.com/)
+
+### System
+
+* VirtualBox (so we can use vagrant for virtual machine creation)
+
+## Deployment
+
+pass
+
+## Todo
 
 1. Create a website
 2. Create the documentation
+3. Document the missing steps above
 3. Stamp a picture of Forrest Gump and Bubba
 4. Make it rock =)
