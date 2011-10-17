@@ -1,0 +1,7 @@
+-r base.txt
+
+# tables2 (easier table creation, pagination and so forth)
+django-tables2==0.7.8
+
+# pythonic way to work with django forms
+django-uni-form==0.9.0

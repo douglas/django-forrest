@@ -1,0 +1,4 @@
+-r base.txt
+
+gunicorn==0.13.4
+supervisor==3.0a10
